@@ -38,6 +38,8 @@ Thumbs.db
 # Selenium WebDriver
 geckodriver.log
 chromedriver.log
+fpl.ipynb
+test.bat
 
 # Data files (uncomment if you don't want to track these)
 # *.csv
