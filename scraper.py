@@ -6,6 +6,8 @@ import pandas as pd
 
 options = Options()
 options.add_argument("--headless")
+options.add_argument("--width=1760")
+options.add_argument("--height=990")
 # options.add_argument("--no-sandbox")
 # options.add_argument("--disable-dev-shm-usage")
 
@@ -42,7 +44,11 @@ def scrape():
     team_name = []
     player_name = []
     points_for_gw = []
+    links = []
 
+    for i in range(1, 25):
+        links.append(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]/td[2]/a').get_attribute('href'))
+    
     # Iterate over the rows of the table
     for i in range(1, 25):
         # Get the player's position and team name
@@ -55,8 +61,13 @@ def scrape():
         pn = driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[2].split(' ')
         player_name.append(pn[0] + ' ' + pn[1])
 
+        
+    for i in range(len(links)):
         # Get the player's points for the current gameweek
-        points_for_gw.append(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[2].split(' ')[-2])
+        driver.get(links[i])
+        time.sleep(1)
+        points_for_gw.append(int(driver.find_element(By.XPATH, "//div[contains(@class, 'EntryEvent__PrimaryValue-sc-l17rqm-4 jsdnqB')]").text))
+        time.sleep(1)    
     return player_pos, team_name, player_name, points_for_gw
 
 def make_df(player_pos, team_name, player_name, points_for_gw):
