@@ -23,7 +23,7 @@ def main():
     styled_data = sort_df(data)
 
     # Display the DataFrame in a Streamlit web page
-    st.dataframe(styled_data, hide_index=True, width=800, height=900, use_container_width=True)
+    st.dataframe(styled_data, hide_index=True, height=900, use_container_width=True)
     
 if __name__ == "__main__":
     main()
