@@ -5,11 +5,11 @@ from selenium.webdriver.firefox.options import Options
 import pandas as pd
 
 options = Options()
-options.add_argument("-headless")
+options.add_argument("--headless")
 # options.add_argument("--no-sandbox")
 # options.add_argument("--disable-dev-shm-usage")
 
-driver = webdriver.Firefox()
+driver = webdriver.Firefox(options=options)
 
 def start():
     """
@@ -122,5 +122,6 @@ def run_scraper():
     styled_df = sort_df(df)
     styled_df.data.to_csv('fpl_standings.csv', index=False)
 
+    driver.quit()
 if __name__ == "__main__":
     run_scraper()
