@@ -47,18 +47,18 @@ def scrape():
     links = []
 
     for i in range(1, 25):
-        links.append(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]/td[2]/a').get_attribute('href'))
+        links.append(driver.find_element(By.XPATH, f"//table/tbody/tr[{i}]/td[2]/a").get_attribute('href'))
     
     # Iterate over the rows of the table
     for i in range(1, 25):
-        # Get the player's position and team name
-        player_pos.append(int(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[0]))
-        team_name.append(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[1])
+        # Get the player's position and team name          //div[contains(@class, 'sc-bdnxRM hItLLq')]
+        player_pos.append(int(driver.find_element(By.XPATH, f"//table/tbody/tr[{i}]").text.split('\n')[0]))
+        team_name.append(driver.find_element(By.XPATH, f"//table/tbody/tr[{i}]").text.split('\n')[1])
 
         # Get the player's name
         # The name is in the format 'First Name, Last Name'
         # So we need to split the string and join the two parts together with a space in between
-        pn = driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[2].split(' ')
+        pn = driver.find_element(By.XPATH, f'//table/tbody/tr[{i}]').text.split('\n')[2].split(' ')
         player_name.append(pn[0] + ' ' + pn[1])
 
         
