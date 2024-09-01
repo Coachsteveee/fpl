@@ -1,13 +1,16 @@
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
 import pandas as pd
 import streamlit as st
 
 options = Options()
-options.add_argument("-headless")
-driver = webdriver.Firefox(options=options)
+options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+
+driver = webdriver.Chrome()
 
 def start():
     """
@@ -19,7 +22,7 @@ def start():
     """
     # Open the Fantasy Premier League website
     driver.get('https://fantasy.premierleague.com/leagues/340359/standings/c')
-    time.sleep(2)
+    time.sleep(1)
     # Close the consent popup
     consent_popup_element = driver.find_element(By.XPATH, '//*[@id="onetrust-reject-all-handler"]')
     consent_popup_element.click()
@@ -44,7 +47,7 @@ def scrape():
     # Iterate over the rows of the table
     for i in range(1, 25):
         # Get the player's position and team name
-        player_pos.append(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[0])
+        player_pos.append(int(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[0]))
         team_name.append(driver.find_element(By.XPATH, f'//div[5]/table/tbody/tr[{i}]').text.split('\n')[1])
 
         # Get the player's name
@@ -69,7 +72,7 @@ def make_df(player_pos, team_name, player_name, points_for_gw):
     """
     # Create a DataFrame with the specified columns
     df = pd.DataFrame({
-        'Position': [],
+        'Overall Position': [],
         'Team_name': [],
         'Player_name': [],
         'Points': []
@@ -82,7 +85,7 @@ def make_df(player_pos, team_name, player_name, points_for_gw):
     player_name_list = player_name
     points_list = points_for_gw
 
-    df['Position'] = position_list
+    df['Overall Position'] = position_list
     df['Team_name'] = team_name_list
     df['Player_name'] = player_name_list
     df['Points'] = points_list
