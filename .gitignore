@@ -40,6 +40,7 @@ geckodriver.log
 chromedriver.log
 fpl.ipynb
 test.bat
+test.ipynb
 
 # Data files (uncomment if you don't want to track these)
 # *.csv
