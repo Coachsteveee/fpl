@@ -6,12 +6,11 @@ import pandas as pd
 
 options = Options()
 options.add_argument("--headless")
-options.add_argument("--width=1760")
-options.add_argument("--height=990")
 # options.add_argument("--no-sandbox")
 # options.add_argument("--disable-dev-shm-usage")
 
 driver = webdriver.Firefox(options=options)
+driver.maximize_window()
 
 def start():
     """
