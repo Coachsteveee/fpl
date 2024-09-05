@@ -14,4 +14,4 @@ git commit -m "Update FPL standings"
 git push origin main
 
 # Pause to keep the window open (optional)
-# pause
+pause
