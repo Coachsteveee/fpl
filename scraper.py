@@ -2,6 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.common.exceptions import NoSuchElementException
 import pandas as pd
 
 options = Options()
@@ -24,8 +25,11 @@ def start():
     driver.get('https://fantasy.premierleague.com/leagues/340359/standings/c')
     time.sleep(1)
     # Close the consent popup
-    consent_popup_element = driver.find_element(By.XPATH, '//*[@id="onetrust-reject-all-handler"]')
-    consent_popup_element.click()
+    try:
+        consent_popup_element = driver.find_element(By.XPATH, '//*[@id="onetrust-reject-all-handler"]')
+        consent_popup_element.click()
+    except NoSuchElementException:
+        pass
     
 def scrape():
     """
