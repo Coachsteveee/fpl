@@ -44,7 +44,7 @@ $output
 "@
 
 # Append log entry to log file
-$logFile = "scraper_log.txt"
+$logFile = "C:\Users\NUDDY\Documents\GitHub\fpl\scraper_log.txt"
 Add-Content -Path $logFile -Value $logEntry
 
 # If successful, proceed with git operations
@@ -57,3 +57,4 @@ if ($status -eq "Success") {
 
 Write-Host "Scraper completed with status: $status"
 Write-Host "Log appended to $logFile"
+pause
