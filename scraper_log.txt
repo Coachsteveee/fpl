@@ -6,3 +6,155 @@ Output:
 
 ====================
 
+====================
+Run Time: 09/15/2024 23:37:08
+Duration: 00:00:00.0753934
+Status: Success
+Output:
+C:\Users\NUDDY\anaconda3\python.exe: can't open file 'C:\\WINDOWS\\system32\\scraper.py': [Errno 2] No such file or directory
+====================
+
+====================
+Run Time: 09/15/2024 23:38:13
+Duration: 00:00:00.0694686
+Status: Success
+Output:
+C:\Users\NUDDY\anaconda3\python.exe: can't open file 'C:\\WINDOWS\\system32\\scraper.py': [Errno 2] No such file or directory
+====================
+
+====================
+Run Time: 09/15/2024 23:40:08
+Duration: 00:01:17.3378834
+Status: Success
+Output:
+
+====================
+
+====================
+Run Time: 09/15/2024 23:45:04
+Duration: 00:00:00.0627195
+Status: Success
+Output:
+C:\Users\NUDDY\anaconda3\python.exe: can't open file 'C:\\WINDOWS\\system32\\scraper.py': [Errno 2] No such file or directory
+====================
+
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Attempting to run scraper...
+Scraper execution completed.
+====================
+Run Time: 09/15/2024 23:55:23
+Duration: 00:01:18.5856394
+Status: Success
+Output:
+
+====================
+
+Attempting to run scraper...
+Scraper execution completed.
+====================
+Run Time: 09/16/2024 00:00:42
+Duration: 00:01:31.3233273
+Status: Success
+Output:
+
+====================
+
+Attempting to run scraper...
+Scraper execution completed.
+====================
+Run Time: 09/16/2024 00:02:41
+Duration: 00:01:20.3629406
+Status: Success
+Output:
+
+====================
+
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+=====================================================================
+Run Time: 09/16/2024 00:08:56
+Duration: 00:01:17.2914726
+Status: Success
+Output:
+
+=====================================================================
+
+=====================================================================
+Run Time: 09/16/2024 00:12:55
+Duration: 00:01:16.8087381
+End Time: 09/16/2024 00:14:12
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 09/16/2024 00:15:17
+Duration: 00:01:15.4532608
+End Time: 09/16/2024 00:16:32
+Status: Success
+Output:
+
+=====================================================================
+
