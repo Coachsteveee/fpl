@@ -1,9 +1,21 @@
+# Change directory to the FPL project folder
+Set-Location -Path "C:\Users\NUDDY\Documents\GitHub\fpl"
+
 # runner.ps1
 $startTime = Get-Date
+$logFile = "C:\Users\NUDDY\Documents\GitHub\fpl\scraper_log.txt"
 
 # Function to run the scraper and return the output
 function Run-Scraper {
-    $output = & python scraper.py 2>&1
+    Add-Content -Path $logFile -Value "Attempting to run scraper..."
+    try {
+        $output = & python scraper.py 2>&1
+        Add-Content -Path $logFile -Value "Scraper execution completed."
+    }
+    catch {
+        Add-Content -Path $logFile -Value "Error running scraper: $_"
+        $output = "Error: $_"
+    }
     return $output
 }
 
@@ -33,13 +45,14 @@ while ($status -eq "Fail") {
 
 # Create log entry
 $logEntry = @"
-====================
+=====================================================================
 Run Time: $startTime
 Duration: $duration
+End Time: $endTime
 Status: $status
 Output:
 $output
-====================
+=====================================================================
 
 "@
 
@@ -57,4 +70,3 @@ if ($status -eq "Success") {
 
 Write-Host "Scraper completed with status: $status"
 Write-Host "Log appended to $logFile"
-pause
