@@ -1,17 +1,60 @@
-echo "#=============== Starting Scraper ===============#"
+# runner.ps1
+$startTime = Get-Date
 
-# Change to the directory where the script is located
-$scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Path
-Set-Location -Path $scriptPath
+# Function to run the scraper and return the output
+function Run-Scraper {
+    $output = & python scraper.py 2>&1
+    return $output
+}
 
-# Run the scraper
-python scraper.py
+# Function to check if the output contains an error
+function Check-Error {
+    param($output)
+    return $output -match "Error"
+}
 
-# Push the CSV file
-git pull
-git add fpl_standings.csv
-git commit -m "Update FPL standings"
-git push origin main
+# Run the scraper and capture the output
+$output = Run-Scraper
+$endTime = Get-Date
+$duration = $endTime - $startTime
 
-# Pause to keep the window open (optional)
-# pause
+# Determine the status
+$status = if (Check-Error $output) { "Fail" } else { "Success" }
+
+# Retry logic
+while ($status -eq "Fail") {
+    Write-Host "Scraper failed. Retrying..."
+    $startTime = Get-Date
+    $output = Run-Scraper
+    $endTime = Get-Date
+    $duration = $endTime - $startTime
+    $status = if (Check-Error $output) { "Fail" } else { "Success" }
+}
+
+# Create log entry
+$logEntry = @"
+====================
+Run Time: $startTime
+Duration: $duration
+Status: $status
+Output:
+$output
+====================
+
+"@
+
+# Append log entry to log file
+$logFile = "scraper_log.txt"
+Add-Content -Path $logFile -Value $logEntry
+
+# If successful, proceed with git operations
+if ($status -eq "Success") {
+    git pull
+    git add fpl_standings.csv
+    git commit -m "Update FPL standings"
+    git push origin main
+}
+
+Write-Host "Scraper completed with status: $status"
+Write-Host "Log appended to $logFile"
+pause
