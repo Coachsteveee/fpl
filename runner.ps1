@@ -57,4 +57,3 @@ if ($status -eq "Success") {
 
 Write-Host "Scraper completed with status: $status"
 Write-Host "Log appended to $logFile"
-pause
