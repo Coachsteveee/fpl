@@ -5,6 +5,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
 import pandas as pd
 
+
 options = Options()
 options.add_argument("--headless")
 # options.add_argument("--no-sandbox")
