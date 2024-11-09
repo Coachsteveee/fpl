@@ -2,3 +2,4 @@ streamlit
 pandas
 numpy
 selenium==4.9.1
+plotly
