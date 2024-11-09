@@ -7,7 +7,6 @@ def load_data():
     df = pd.read_csv('fpl_standings.csv')
     return df
 
-
 def main():
     """
     The main entry point of the script.
