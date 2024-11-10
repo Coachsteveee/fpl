@@ -121,10 +121,10 @@ def sort_df(df):
     def highlight_points(x):
         max_points = df['Points'].max()
         min_points = df['Points'].min()
-        # return ['background-color: green' if x['Points'] == max_points else 'background-color: red' if x['Points'] == min_points else '' for i in x]
+        return ['background-color: green' if x['Points'] == max_points else 'background-color: red' if x['Points'] == min_points else '' for i in x]
 
     # Apply the style function to the DataFrame
-    styled_df = df
+    styled_df = df.style.apply(highlight_points, axis=1)
 
     # Print the styled DataFrame
     return styled_df
