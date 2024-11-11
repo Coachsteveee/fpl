@@ -106,36 +106,15 @@ def make_df(player_pos, team_name, player_name, points_for_gw):
     # Return the DataFrame
     return df
 
-def sort_df(df):
-    """
-    Sort the DataFrame on the 'Points' column in descending order.
-
-    This function is used to sort the DataFrame on the 'Points' column in
-    descending order. The function takes no arguments and returns None.
-    """
-
-    # Sort the DataFrame on the 'Points' column in descending order
-    df = df.sort_values(by='Points', ascending=False)
-
-    # Create a style function to highlight the highest and lowest points
-    def highlight_points(x):
-        max_points = df['Points'].max()
-        min_points = df['Points'].min()
-        return ['background-color: green' if x['Points'] == max_points else 'background-color: red' if x['Points'] == min_points else '' for i in x]
-
-    # Apply the style function to the DataFrame
-    styled_df = df.style.apply(highlight_points, axis=1)
-
-    # Print the styled DataFrame
-    return styled_df
-
 def run_scraper():
     start()
     player_pos, team_name, player_name, points_for_gw = scrape()
-    df = make_df(player_pos=player_pos, team_name=team_name, player_name=player_name, points_for_gw=points_for_gw)
-    styled_df = sort_df(df)
-    styled_df.data.to_csv('fpl_standings.csv', index=False)
+    df = make_df(player_pos=player_pos, team_name=team_name, player_name=player_name, points_for_gw=points_for_gw).sort_values(by='Points', ascending=False)
+    # styled_df = sort_df(df)
+    print(df)
+    df.to_csv('fpl_standings.csv', index=False)
 
     driver.quit()
+    
 if __name__ == "__main__":
     run_scraper()

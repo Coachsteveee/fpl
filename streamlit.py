@@ -1,4 +1,3 @@
-from scraper import sort_df
 import pandas as pd
 import streamlit as st
 import plotly.express as px
@@ -97,8 +96,8 @@ def add_sidebar_stats(data):
         st.write(f"🏆 Weekly Winner: {winner['Player_name']}")
         
         # Biggest gap to next position
-        data['Points_diff'] = data['Points'].diff()
-        biggest_gap = data.loc[data['Points_diff'].abs().idxmax()]
+        # data['Points_diff'] = data['Points'].diff()
+        biggest_gap = data.loc[data['Points'].diff().abs().idxmax()]
         st.write(f"📊 Biggest Gap: {biggest_gap['Player_name']}")
 
 def main():
@@ -109,11 +108,11 @@ def main():
         page_icon="⚽", 
     )
     
-    st.title('Standings for Current Gameweek')
+    st.title('1k Geng')
     
     # Load and sort data
     data = load_data()
-    styled_data = sort_df(data)
+    # styled_data = sort_df(data)
     
     # Add sidebar statistics
     add_sidebar_stats(data)
@@ -136,7 +135,7 @@ def main():
             st.error(f"😭 Back Bencher: {weekly_loser['Player_name']} ({weekly_loser['Points']} points)")
         
         # Display main standings
-        st.dataframe(styled_data, hide_index=True, height=900, use_container_width=True)
+        st.dataframe(data, hide_index=True, height=877, use_container_width=True)
     
     with tab2:
         add_analytics(data)
