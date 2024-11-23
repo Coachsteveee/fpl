@@ -42,6 +42,7 @@ fpl.ipynb
 test.bat
 test.ipynb
 scraper_log.txt
+test_scraper.py
 
 # Data files (uncomment if you don't want to track these)
 # *.csv

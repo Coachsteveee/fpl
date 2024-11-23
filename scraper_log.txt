@@ -1,1157 +1,202 @@
-====================
-Run Time: 09/15/2024 23:27:30
-Duration: 00:01:17.7874411
-Status: Success
-Output:
-
-====================
-
-====================
-Run Time: 09/15/2024 23:37:08
-Duration: 00:00:00.0753934
-Status: Success
-Output:
-C:\Users\NUDDY\anaconda3\python.exe: can't open file 'C:\\WINDOWS\\system32\\scraper.py': [Errno 2] No such file or directory
-====================
-
-====================
-Run Time: 09/15/2024 23:38:13
-Duration: 00:00:00.0694686
-Status: Success
-Output:
-C:\Users\NUDDY\anaconda3\python.exe: can't open file 'C:\\WINDOWS\\system32\\scraper.py': [Errno 2] No such file or directory
-====================
-
-====================
-Run Time: 09/15/2024 23:40:08
-Duration: 00:01:17.3378834
-Status: Success
-Output:
-
-====================
-
-====================
-Run Time: 09/15/2024 23:45:04
-Duration: 00:00:00.0627195
-Status: Success
-Output:
-C:\Users\NUDDY\anaconda3\python.exe: can't open file 'C:\\WINDOWS\\system32\\scraper.py': [Errno 2] No such file or directory
-====================
-
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Attempting to run scraper...
-Scraper execution completed.
-====================
-Run Time: 09/15/2024 23:55:23
-Duration: 00:01:18.5856394
-Status: Success
-Output:
-
-====================
-
-Attempting to run scraper...
-Scraper execution completed.
-====================
-Run Time: 09/16/2024 00:00:42
-Duration: 00:01:31.3233273
-Status: Success
-Output:
-
-====================
-
-Attempting to run scraper...
-Scraper execution completed.
-====================
-Run Time: 09/16/2024 00:02:41
-Duration: 00:01:20.3629406
-Status: Success
-Output:
-
-====================
-
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-=====================================================================
-Run Time: 09/16/2024 00:08:56
-Duration: 00:01:17.2914726
-Status: Success
-Output:
-
-=====================================================================
-
-=====================================================================
-Run Time: 09/16/2024 00:12:55
-Duration: 00:01:16.8087381
-End Time: 09/16/2024 00:14:12
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 09/16/2024 00:15:17
-Duration: 00:01:15.4532608
-End Time: 09/16/2024 00:16:32
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 17:20:27
-Duration: 00:01:19.1247966
-End Time: 11/09/2024 17:21:47
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 17:24:02
-Duration: 00:01:17.1897888
-End Time: 11/09/2024 17:25:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 17:34:02
-Duration: 00:01:16.6807088
-End Time: 11/09/2024 17:35:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 17:44:02
-Duration: 00:01:16.4429574
-End Time: 11/09/2024 17:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 17:54:02
-Duration: 00:01:16.4631478
-End Time: 11/09/2024 17:55:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 18:04:03
-Duration: 00:01:17.7321197
-End Time: 11/09/2024 18:05:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 18:14:03
-Duration: 00:01:16.7958260
-End Time: 11/09/2024 18:15:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 18:24:03
-Duration: 00:01:17.0839599
-End Time: 11/09/2024 18:25:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 18:34:02
-Duration: 00:01:16.0256258
-End Time: 11/09/2024 18:35:18
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 18:44:02
-Duration: 00:01:16.1571235
-End Time: 11/09/2024 18:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 18:54:02
-Duration: 00:01:16.3337514
-End Time: 11/09/2024 18:55:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 19:04:03
-Duration: 00:01:15.9468271
-End Time: 11/09/2024 19:05:18
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 19:14:02
-Duration: 00:01:16.8144721
-End Time: 11/09/2024 19:15:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 19:24:03
-Duration: 00:01:16.6178877
-End Time: 11/09/2024 19:25:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 19:34:03
-Duration: 00:01:16.8851505
-End Time: 11/09/2024 19:35:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 19:44:02
-Duration: 00:01:16.6257016
-End Time: 11/09/2024 19:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 19:54:02
-Duration: 00:01:16.5176212
-End Time: 11/09/2024 19:55:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 20:04:03
-Duration: 00:01:17.8067377
-End Time: 11/09/2024 20:05:21
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 20:14:02
-Duration: 00:01:16.3745821
-End Time: 11/09/2024 20:15:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 20:24:02
-Duration: 00:01:16.1417539
-End Time: 11/09/2024 20:25:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 20:34:02
-Duration: 00:01:16.2025173
-End Time: 11/09/2024 20:35:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 20:44:02
-Duration: 00:01:15.9632483
-End Time: 11/09/2024 20:45:18
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 20:54:02
-Duration: 00:01:17.2528505
-End Time: 11/09/2024 20:55:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 21:04:02
-Duration: 00:01:16.5891883
-End Time: 11/09/2024 21:05:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 21:14:03
-Duration: 00:01:18.4775549
-End Time: 11/09/2024 21:15:22
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 21:24:03
-Duration: 00:01:17.7523899
-End Time: 11/09/2024 21:25:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 21:34:03
-Duration: 00:01:16.3192370
-End Time: 11/09/2024 21:35:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 21:44:02
-Duration: 00:01:17.1708198
-End Time: 11/09/2024 21:45:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 21:54:03
-Duration: 00:01:16.9335522
-End Time: 11/09/2024 21:55:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 22:04:03
-Duration: 00:01:17.2770122
-End Time: 11/09/2024 22:05:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 22:14:03
-Duration: 00:01:16.8195936
-End Time: 11/09/2024 22:15:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 22:24:03
-Duration: 00:01:17.2082426
-End Time: 11/09/2024 22:25:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 22:34:03
-Duration: 00:01:16.8294057
-End Time: 11/09/2024 22:35:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 22:44:02
-Duration: 00:01:16.5081657
-End Time: 11/09/2024 22:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 22:54:03
-Duration: 00:01:16.3642434
-End Time: 11/09/2024 22:55:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 23:04:03
-Duration: 00:01:22.1229037
-End Time: 11/09/2024 23:05:25
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 23:14:03
-Duration: 00:01:17.2790920
-End Time: 11/09/2024 23:15:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 23:24:03
-Duration: 00:01:17.1788222
-End Time: 11/09/2024 23:25:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 23:34:03
-Duration: 00:01:16.6149037
-End Time: 11/09/2024 23:35:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 23:44:02
-Duration: 00:01:16.6724621
-End Time: 11/09/2024 23:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/09/2024 23:54:03
-Duration: 00:01:21.4692560
-End Time: 11/09/2024 23:55:24
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 00:04:03
-Duration: 00:01:16.5314480
-End Time: 11/10/2024 00:05:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 16:54:03
-Duration: 00:01:18.8979448
-End Time: 11/10/2024 16:55:21
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 17:04:03
-Duration: 00:01:18.1893935
-End Time: 11/10/2024 17:05:21
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 17:14:03
-Duration: 00:01:16.6593447
-End Time: 11/10/2024 17:15:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 17:24:03
-Duration: 00:01:17.8884033
-End Time: 11/10/2024 17:25:21
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 17:34:03
-Duration: 00:01:17.1374358
-End Time: 11/10/2024 17:35:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 17:44:03
-Duration: 00:01:16.8562628
-End Time: 11/10/2024 17:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 17:54:02
-Duration: 00:01:17.7892451
-End Time: 11/10/2024 17:55:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 18:04:02
-Duration: 00:01:16.4732620
-End Time: 11/10/2024 18:05:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 18:14:02
-Duration: 00:01:17.7362798
-End Time: 11/10/2024 18:15:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 18:24:03
-Duration: 00:01:17.3400469
-End Time: 11/10/2024 18:25:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 18:34:02
-Duration: 00:01:16.1697374
-End Time: 11/10/2024 18:35:18
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 18:44:02
-Duration: 00:01:16.9018441
-End Time: 11/10/2024 18:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 18:54:02
-Duration: 00:01:17.5008064
-End Time: 11/10/2024 18:55:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 19:04:02
-Duration: 00:01:17.4240812
-End Time: 11/10/2024 19:05:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 19:14:02
-Duration: 00:01:16.9406699
-End Time: 11/10/2024 19:15:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 19:24:02
-Duration: 00:01:16.2782312
-End Time: 11/10/2024 19:25:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 19:34:02
-Duration: 00:01:15.8796414
-End Time: 11/10/2024 19:35:18
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 19:44:03
-Duration: 00:01:16.9752697
-End Time: 11/10/2024 19:45:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 19:54:02
-Duration: 00:01:17.0760913
-End Time: 11/10/2024 19:55:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 20:04:02
-Duration: 00:01:17.4226750
-End Time: 11/10/2024 20:05:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 20:14:03
-Duration: 00:01:16.7812824
-End Time: 11/10/2024 20:15:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 20:24:02
-Duration: 00:01:16.2460706
-End Time: 11/10/2024 20:25:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 20:34:03
-Duration: 00:01:17.6861863
-End Time: 11/10/2024 20:35:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 20:44:03
-Duration: 00:01:16.9046671
-End Time: 11/10/2024 20:45:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 20:54:02
-Duration: 00:01:17.0071995
-End Time: 11/10/2024 20:55:19
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 21:04:02
-Duration: 00:01:25.7099155
-End Time: 11/10/2024 21:05:28
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 21:14:03
-Duration: 00:01:16.9898507
-End Time: 11/10/2024 21:15:20
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 21:24:02
-Duration: 00:01:16.1670072
-End Time: 11/10/2024 21:25:18
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 21:44:03
-Duration: 00:01:19.1486451
-End Time: 11/10/2024 21:45:22
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 21:54:02
-Duration: 00:01:15.7600012
-End Time: 11/10/2024 21:55:18
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 22:04:03
-Duration: 00:01:25.0966369
-End Time: 11/10/2024 22:05:28
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 22:14:03
-Duration: 00:01:23.1279346
-End Time: 11/10/2024 22:15:26
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 22:24:03
-Duration: 00:01:23.5958176
-End Time: 11/10/2024 22:25:26
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 22:34:03
-Duration: 00:01:23.9099069
-End Time: 11/10/2024 22:35:27
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 22:44:03
-Duration: 00:01:24.6086824
-End Time: 11/10/2024 22:45:27
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 22:54:03
-Duration: 00:01:23.7080376
-End Time: 11/10/2024 22:55:27
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 23:04:03
-Duration: 00:01:24.3602713
-End Time: 11/10/2024 23:05:27
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 23:14:03
-Duration: 00:01:24.4919240
-End Time: 11/10/2024 23:15:28
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Scraper execution completed.
-=====================================================================
-Run Time: 11/10/2024 23:24:03
-Duration: 00:01:22.5849809
-End Time: 11/10/2024 23:25:25
-Status: Success
-Output:
-
-=====================================================================
-
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Scraper execution completed.
-Attempting to run scraper...
-Attempting to run scraper...
-Attempting to run scraper...
 Attempting to run scraper...
+[2024-11-23 16:18:35] === Starting FPL Scraper Process ===
+[2024-11-23 16:18:35] Attempt 1 of 3
+[2024-11-23 16:18:35] Starting scraper execution...
+[2024-11-23 16:20:03] === Starting FPL Scraper Process ===
+[2024-11-23 16:20:03] Attempt 1 of 3
+[2024-11-23 16:20:03] Starting scraper execution...
+[2024-11-23 16:24:08] Scraper execution timed out after 4 minutes
+[2024-11-23 16:24:08] Scraper failed. Error: Error: Timeout
+[2024-11-23 16:24:08] Waiting 60 seconds before retry...
+[2024-11-23 16:24:13] Scraper execution timed out after 4 minutes
+[2024-11-23 16:24:13] Scraper failed. Error: Error: Timeout
+[2024-11-23 16:24:13] Waiting 60 seconds before retry...
+[2024-11-23 16:26:28] === Starting FPL Scraper Process ===
+[2024-11-23 16:26:28] Checking environment...
+[2024-11-23 16:26:28] Testing Python installation...
+[2024-11-23 16:26:28] Python version: Python 3.12.4
+[2024-11-23 16:26:28] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:26:28] Running single scraper attempt for debugging...
+[2024-11-23 16:26:28] Starting scraper execution...
+[2024-11-23 16:26:28] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\test_scraper.py
+[2024-11-23 16:26:28] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:26:28] Creating background job...
+[2024-11-23 16:26:28] Waiting for job completion (timeout: 10 minutes)...
+[2024-11-23 16:26:38] Job completed, receiving output...
+[2024-11-23 16:26:39] Job output: Starting Python execution... Test scraper starting... Processing step 1/5... Processing step 2/5... Processing step 3/5... Processing step 4/5... Processing step 5/5... Test scraper completed successfully
+[2024-11-23 16:26:39] Job cleaned up
+[2024-11-23 16:26:39] Scraper output: Starting Python execution... Test scraper starting... Processing step 1/5... Processing step 2/5... Processing step 3/5... Processing step 4/5... Processing step 5/5... Test scraper completed successfully
+[2024-11-23 16:26:39] Script completed
+[2024-11-23 16:28:17] === Starting FPL Scraper Process ===
+[2024-11-23 16:28:17] Checking environment...
+[2024-11-23 16:28:17] Testing Python installation...
+[2024-11-23 16:28:17] Python version: Python 3.12.4
+[2024-11-23 16:28:17] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:28:17] Running single scraper attempt for debugging...
+[2024-11-23 16:28:18] Starting scraper execution...
+[2024-11-23 16:28:18] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\test_scraper.py
+[2024-11-23 16:28:18] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:28:18] Creating background job...
+[2024-11-23 16:28:18] Waiting for job completion (timeout: 10 minutes)...
+[2024-11-23 16:29:25] === Starting FPL Scraper Process ===
+[2024-11-23 16:29:25] Checking environment...
+[2024-11-23 16:29:25] Testing Python installation...
+[2024-11-23 16:29:25] Python version: Python 3.12.4
+[2024-11-23 16:29:25] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:29:25] Running single scraper attempt for debugging...
+[2024-11-23 16:29:25] Starting scraper execution...
+[2024-11-23 16:29:25] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\test_scraper.py
+[2024-11-23 16:29:25] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:29:25] Creating background job...
+[2024-11-23 16:29:25] Waiting for job completion (timeout: 10 minutes)...
+[2024-11-23 16:29:39] Job completed, receiving output...
+[2024-11-23 16:29:39] Job output: Starting Python execution... Test scraper starting... Test scraper completed successfully
+[2024-11-23 16:29:39] Job cleaned up
+[2024-11-23 16:29:39] Scraper output: Starting Python execution... Test scraper starting... Test scraper completed successfully
+[2024-11-23 16:29:39] Script completed
+[2024-11-23 16:29:58] === Starting FPL Scraper Process ===
+[2024-11-23 16:29:58] Checking environment...
+[2024-11-23 16:29:58] Testing Python installation...
+[2024-11-23 16:29:58] Python version: Python 3.12.4
+[2024-11-23 16:29:58] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:29:58] Running single scraper attempt for debugging...
+[2024-11-23 16:29:58] Starting scraper execution...
+[2024-11-23 16:29:58] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\test_scraper.py
+[2024-11-23 16:29:58] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:29:58] Creating background job...
+[2024-11-23 16:29:59] Waiting for job completion (timeout: 10 minutes)...
+[2024-11-23 16:30:03] === Starting FPL Scraper Process ===
+[2024-11-23 16:30:03] Attempt 1 of 3
+[2024-11-23 16:30:03] Starting scraper execution...
+[2024-11-23 16:30:42] Scraper execution completed successfully
+[2024-11-23 16:30:42] Scraper completed successfully
+[2024-11-23 16:30:42] Running git pull...
+[2024-11-23 16:30:43] Adding files to git...
+[2024-11-23 16:30:43] Committing changes...
+[2024-11-23 16:30:43] Git operation failed: Git commit failed: On branch main Your branch is up to date with 'origin/main'.  Changes not staged for commit:   (use "git add <file>..." to update what will be committed)   (use "git restore <file>..." to discard changes in working directory) 	modified:   runner.ps1 	modified:   scraper_log.txt  Untracked files:   (use "git add <file>..." to include in what will be committed) 	debugger.ps1 	test_scraper.py  no changes added to commit (use "git add" and/or "git commit -a")
+[2024-11-23 16:30:43] =====================================================================
+Run Time: 11/23/2024 16:30:03
+Duration: 00:00:39.9035215
+End Time: 11/23/2024 16:30:43
+Status: Partial Success (Git Failed)
+Attempts: 1
+=====================================================================
+[2024-11-23 16:31:14] === Starting FPL Scraper Process ===
+[2024-11-23 16:31:14] Checking environment...
+[2024-11-23 16:31:14] Testing Python installation...
+[2024-11-23 16:31:14] Python version: Python 3.12.4
+[2024-11-23 16:31:14] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:31:14] Running single scraper attempt for debugging...
+[2024-11-23 16:31:14] Starting scraper execution...
+[2024-11-23 16:31:14] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\test_scraper.py
+[2024-11-23 16:31:14] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:31:14] Creating background job...
+[2024-11-23 16:31:14] Waiting for job completion (timeout: 10 minutes)...
+[2024-11-23 16:31:37] Job completed, receiving output...
+[2024-11-23 16:31:37] Job output: Starting Python execution... Test scraper starting... Test scraper completed successfully
+[2024-11-23 16:31:37] Job cleaned up
+[2024-11-23 16:31:37] Scraper output: Starting Python execution... Test scraper starting... Test scraper completed successfully
+[2024-11-23 16:31:37] Script completed
+[2024-11-23 16:32:06] === Starting FPL Scraper Process ===
+[2024-11-23 16:32:06] Checking environment...
+[2024-11-23 16:32:06] Testing Python installation...
+[2024-11-23 16:32:06] Python version: Python 3.12.4
+[2024-11-23 16:32:06] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:32:06] Running single scraper attempt for debugging...
+[2024-11-23 16:32:06] Starting scraper execution...
+[2024-11-23 16:32:06] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py
+[2024-11-23 16:32:06] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:32:06] Creating background job...
+[2024-11-23 16:32:07] Waiting for job completion (timeout: 4 minutes)...
+[2024-11-23 16:32:37] === Starting FPL Scraper Process ===
+[2024-11-23 16:32:37] Checking environment...
+[2024-11-23 16:32:37] Testing Python installation...
+[2024-11-23 16:32:37] Python version: Python 3.12.4
+[2024-11-23 16:32:37] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:32:37] Running single scraper attempt for debugging...
+[2024-11-23 16:32:37] Starting scraper execution...
+[2024-11-23 16:32:37] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py
+[2024-11-23 16:32:37] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:32:37] Creating background job...
+[2024-11-23 16:32:38] Waiting for job completion (timeout: 4 minutes)...
+[2024-11-23 16:40:03] === Starting FPL Scraper Process ===
+[2024-11-23 16:40:03] Checking environment...
+[2024-11-23 16:40:03] Testing Python installation...
+[2024-11-23 16:40:03] Python version: Python 3.12.4
+[2024-11-23 16:40:03] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:40:03] Running single scraper attempt for debugging...
+[2024-11-23 16:40:03] Starting scraper execution...
+[2024-11-23 16:40:03] Python script path: C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py
+[2024-11-23 16:40:03] Current directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:40:03] Creating background job...
+[2024-11-23 16:40:04] Waiting for job completion (timeout: 4 minutes)...
+[2024-11-23 16:41:21] === Starting FPL Scraper Process ===
+[2024-11-23 16:41:21] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:41:21] Cleaning up processes...
+[2024-11-23 16:41:21] Killed process: firefox (ID: 1028)
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (1448) has exited."
+[2024-11-23 16:41:21] Killed process: firefox (ID: 2328)
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Killed process: firefox (ID: 3360)
+[2024-11-23 16:41:21] Killed process: firefox (ID: 10812)
+[2024-11-23 16:41:21] Killed process: firefox (ID: 11408)
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (14616) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (15436) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (18536) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (20088) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (20124) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (20568) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (21160) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (21556) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Cannot process request because the process (22104) has exited."
+[2024-11-23 16:41:21] Error killing process : Exception calling "Kill" with "0" argument(s): "Access is denied"
+[2024-11-23 16:41:22] Killed process: geckodriver (ID: 13892)
+[2024-11-23 16:41:22] Cleanup completed
+[2024-11-23 16:41:22] Starting scraper execution...
+[2024-11-23 16:41:25] Job completed, receiving output...
+[2024-11-23 16:41:25] Job output: Starting Python execution... Traceback (most recent call last):   File "C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py", line 120, in <module>     run_scraper()   File "C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py", line 114, in run_scraper     print(df)   File "C:\Users\NUDDY\anaconda3\Lib\encodings\cp1252.py", line 19, in encode     return codecs.charmap_encode(input,self.errors,encoding_table)[0]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 406: character maps to <undefined>
+[2024-11-23 16:41:25] Job cleaned up
+[2024-11-23 16:41:25] Scraper output: Starting Python execution... Traceback (most recent call last):   File "C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py", line 120, in <module>     run_scraper()   File "C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py", line 114, in run_scraper     print(df)   File "C:\Users\NUDDY\anaconda3\Lib\encodings\cp1252.py", line 19, in encode     return codecs.charmap_encode(input,self.errors,encoding_table)[0]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 406: character maps to <undefined>
+[2024-11-23 16:41:25] Script completed
+[2024-11-23 16:43:53] === Starting FPL Scraper Process ===
+[2024-11-23 16:43:53] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:43:53] Cleaning up processes...
+[2024-11-23 16:43:53] Cleanup completed
+[2024-11-23 16:43:53] Starting scraper execution...
+[2024-11-23 16:48:41] Cleaning up processes...
+[2024-11-23 16:48:41] Cleanup completed
+[2024-11-23 16:48:41] Cleaning up processes...
+[2024-11-23 16:48:41] Cleanup completed
+[2024-11-23 16:48:41] Script execution completed
+[2024-11-23 16:48:48] Starting scraper... 
+[2024-11-23 16:50:04] === Starting FPL Scraper Process ===
+[2024-11-23 16:50:04] Changed to working directory: C:\Users\NUDDY\Documents\GitHub\fpl
+[2024-11-23 16:50:04] Cleaning up processes...
+[2024-11-23 16:50:04] Killed process: geckodriver (ID: 23096)
+[2024-11-23 16:50:04] Cleanup completed
+[2024-11-23 16:50:04] Starting scraper execution...
+[2024-11-23 16:48:48] Scraper completed successfully 
+[2024-11-23 16:48:48] Process completed 
+[2024-11-23 16:50:38] Scraper execution completed.
+[2024-11-23 16:50:40] Cleaning up processes...
+[2024-11-23 16:50:40] Cleanup completed
+=====================================================================
+Run Time: 11/23/2024 16:50:04
+Duration: 00:00:36.7816886
+End Time: 11/23/2024 16:50:40
+Status: Fail
+Output:
+Traceback (most recent call last):   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connection.py", line 196, in _new_conn     sock = connection.create_connection(            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection     raise err   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection     sock.connect(sa) ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it System.Management.Automation.RemoteException The above exception was the direct cause of the following exception: System.Management.Automation.RemoteException Traceback (most recent call last):   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen     response = self._make_request(                ^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connectionpool.py", line 495, in _make_request     conn.request(   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connection.py", line 398, in request     self.endheaders()   File "C:\Users\NUDDY\anaconda3\Lib\http\client.py", line 1331, in endheaders     self._send_output(message_body, encode_chunked=encode_chunked)   File "C:\Users\NUDDY\anaconda3\Lib\http\client.py", line 1091, in _send_output     self.send(msg)   File "C:\Users\NUDDY\anaconda3\Lib\http\client.py", line 1035, in send     self.connect()   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connection.py", line 236, in connect     self.sock = self._new_conn()                 ^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connection.py", line 211, in _new_conn     raise NewConnectionError( urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001C5A64C7320>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it System.Management.Automation.RemoteException The above exception was the direct cause of the following exception: System.Management.Automation.RemoteException Traceback (most recent call last):   File "C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py", line 120, in <module>     run_scraper()   File "C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py", line 111, in run_scraper     player_pos, team_name, player_name, points_for_gw = scrape()                                                         ^^^^^^^^   File "C:\Users\NUDDY\Documents\GitHub\fpl\scraper.py", line 72, in scrape     points_for_gw.append(int(driver.find_element(By.XPATH, "//div[contains(@class, 'EntryEvent__PrimaryValue-sc-l17rqm-4 jsdnqB')]").text))                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 831, in find_element     return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 438, in execute     response = self.command_executor.execute(driver_command, params)                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 290, in execute     return self._request(command_info[0], url, body=data)            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 311, in _request     response = self._conn.request(method, url, body=body, headers=headers)                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\_request_methods.py", line 144, in request     return self.request_encode_body(            ^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\_request_methods.py", line 279, in request_encode_body     return self.urlopen(method, url, **extra_kw)            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\poolmanager.py", line 443, in urlopen     response = conn.urlopen(method, u.request_uri, **kw)                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connectionpool.py", line 873, in urlopen     return self.urlopen(            ^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connectionpool.py", line 873, in urlopen     return self.urlopen(            ^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connectionpool.py", line 873, in urlopen     return self.urlopen(            ^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen     retries = retries.increment(               ^^^^^^^^^^^^^^^^^^   File "C:\Users\NUDDY\anaconda3\Lib\site-packages\urllib3\util\retry.py", line 519, in increment     raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=49723): Max retries exceeded with url: /session/d7fcea47-f9cd-4124-bf08-9551b67888c2/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C5A64C7320>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+=====================================================================
+[2024-11-23 16:50:40] Cleaning up processes...
+[2024-11-23 16:50:40] Cleanup completed
+[2024-11-23 16:50:40] Script execution completed
