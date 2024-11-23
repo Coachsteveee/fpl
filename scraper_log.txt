@@ -158,3 +158,1000 @@ Output:
 
 =====================================================================
 
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 17:20:27
+Duration: 00:01:19.1247966
+End Time: 11/09/2024 17:21:47
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 17:24:02
+Duration: 00:01:17.1897888
+End Time: 11/09/2024 17:25:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 17:34:02
+Duration: 00:01:16.6807088
+End Time: 11/09/2024 17:35:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 17:44:02
+Duration: 00:01:16.4429574
+End Time: 11/09/2024 17:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 17:54:02
+Duration: 00:01:16.4631478
+End Time: 11/09/2024 17:55:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 18:04:03
+Duration: 00:01:17.7321197
+End Time: 11/09/2024 18:05:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 18:14:03
+Duration: 00:01:16.7958260
+End Time: 11/09/2024 18:15:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 18:24:03
+Duration: 00:01:17.0839599
+End Time: 11/09/2024 18:25:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 18:34:02
+Duration: 00:01:16.0256258
+End Time: 11/09/2024 18:35:18
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 18:44:02
+Duration: 00:01:16.1571235
+End Time: 11/09/2024 18:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 18:54:02
+Duration: 00:01:16.3337514
+End Time: 11/09/2024 18:55:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 19:04:03
+Duration: 00:01:15.9468271
+End Time: 11/09/2024 19:05:18
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 19:14:02
+Duration: 00:01:16.8144721
+End Time: 11/09/2024 19:15:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 19:24:03
+Duration: 00:01:16.6178877
+End Time: 11/09/2024 19:25:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 19:34:03
+Duration: 00:01:16.8851505
+End Time: 11/09/2024 19:35:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 19:44:02
+Duration: 00:01:16.6257016
+End Time: 11/09/2024 19:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 19:54:02
+Duration: 00:01:16.5176212
+End Time: 11/09/2024 19:55:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 20:04:03
+Duration: 00:01:17.8067377
+End Time: 11/09/2024 20:05:21
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 20:14:02
+Duration: 00:01:16.3745821
+End Time: 11/09/2024 20:15:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 20:24:02
+Duration: 00:01:16.1417539
+End Time: 11/09/2024 20:25:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 20:34:02
+Duration: 00:01:16.2025173
+End Time: 11/09/2024 20:35:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 20:44:02
+Duration: 00:01:15.9632483
+End Time: 11/09/2024 20:45:18
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 20:54:02
+Duration: 00:01:17.2528505
+End Time: 11/09/2024 20:55:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 21:04:02
+Duration: 00:01:16.5891883
+End Time: 11/09/2024 21:05:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 21:14:03
+Duration: 00:01:18.4775549
+End Time: 11/09/2024 21:15:22
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 21:24:03
+Duration: 00:01:17.7523899
+End Time: 11/09/2024 21:25:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 21:34:03
+Duration: 00:01:16.3192370
+End Time: 11/09/2024 21:35:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 21:44:02
+Duration: 00:01:17.1708198
+End Time: 11/09/2024 21:45:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 21:54:03
+Duration: 00:01:16.9335522
+End Time: 11/09/2024 21:55:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 22:04:03
+Duration: 00:01:17.2770122
+End Time: 11/09/2024 22:05:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 22:14:03
+Duration: 00:01:16.8195936
+End Time: 11/09/2024 22:15:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 22:24:03
+Duration: 00:01:17.2082426
+End Time: 11/09/2024 22:25:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 22:34:03
+Duration: 00:01:16.8294057
+End Time: 11/09/2024 22:35:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 22:44:02
+Duration: 00:01:16.5081657
+End Time: 11/09/2024 22:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 22:54:03
+Duration: 00:01:16.3642434
+End Time: 11/09/2024 22:55:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 23:04:03
+Duration: 00:01:22.1229037
+End Time: 11/09/2024 23:05:25
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 23:14:03
+Duration: 00:01:17.2790920
+End Time: 11/09/2024 23:15:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 23:24:03
+Duration: 00:01:17.1788222
+End Time: 11/09/2024 23:25:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 23:34:03
+Duration: 00:01:16.6149037
+End Time: 11/09/2024 23:35:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 23:44:02
+Duration: 00:01:16.6724621
+End Time: 11/09/2024 23:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/09/2024 23:54:03
+Duration: 00:01:21.4692560
+End Time: 11/09/2024 23:55:24
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 00:04:03
+Duration: 00:01:16.5314480
+End Time: 11/10/2024 00:05:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 16:54:03
+Duration: 00:01:18.8979448
+End Time: 11/10/2024 16:55:21
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 17:04:03
+Duration: 00:01:18.1893935
+End Time: 11/10/2024 17:05:21
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 17:14:03
+Duration: 00:01:16.6593447
+End Time: 11/10/2024 17:15:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 17:24:03
+Duration: 00:01:17.8884033
+End Time: 11/10/2024 17:25:21
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 17:34:03
+Duration: 00:01:17.1374358
+End Time: 11/10/2024 17:35:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 17:44:03
+Duration: 00:01:16.8562628
+End Time: 11/10/2024 17:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 17:54:02
+Duration: 00:01:17.7892451
+End Time: 11/10/2024 17:55:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 18:04:02
+Duration: 00:01:16.4732620
+End Time: 11/10/2024 18:05:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 18:14:02
+Duration: 00:01:17.7362798
+End Time: 11/10/2024 18:15:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 18:24:03
+Duration: 00:01:17.3400469
+End Time: 11/10/2024 18:25:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 18:34:02
+Duration: 00:01:16.1697374
+End Time: 11/10/2024 18:35:18
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 18:44:02
+Duration: 00:01:16.9018441
+End Time: 11/10/2024 18:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 18:54:02
+Duration: 00:01:17.5008064
+End Time: 11/10/2024 18:55:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 19:04:02
+Duration: 00:01:17.4240812
+End Time: 11/10/2024 19:05:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 19:14:02
+Duration: 00:01:16.9406699
+End Time: 11/10/2024 19:15:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 19:24:02
+Duration: 00:01:16.2782312
+End Time: 11/10/2024 19:25:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 19:34:02
+Duration: 00:01:15.8796414
+End Time: 11/10/2024 19:35:18
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 19:44:03
+Duration: 00:01:16.9752697
+End Time: 11/10/2024 19:45:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 19:54:02
+Duration: 00:01:17.0760913
+End Time: 11/10/2024 19:55:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 20:04:02
+Duration: 00:01:17.4226750
+End Time: 11/10/2024 20:05:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 20:14:03
+Duration: 00:01:16.7812824
+End Time: 11/10/2024 20:15:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 20:24:02
+Duration: 00:01:16.2460706
+End Time: 11/10/2024 20:25:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 20:34:03
+Duration: 00:01:17.6861863
+End Time: 11/10/2024 20:35:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 20:44:03
+Duration: 00:01:16.9046671
+End Time: 11/10/2024 20:45:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 20:54:02
+Duration: 00:01:17.0071995
+End Time: 11/10/2024 20:55:19
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 21:04:02
+Duration: 00:01:25.7099155
+End Time: 11/10/2024 21:05:28
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 21:14:03
+Duration: 00:01:16.9898507
+End Time: 11/10/2024 21:15:20
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 21:24:02
+Duration: 00:01:16.1670072
+End Time: 11/10/2024 21:25:18
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 21:44:03
+Duration: 00:01:19.1486451
+End Time: 11/10/2024 21:45:22
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 21:54:02
+Duration: 00:01:15.7600012
+End Time: 11/10/2024 21:55:18
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 22:04:03
+Duration: 00:01:25.0966369
+End Time: 11/10/2024 22:05:28
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 22:14:03
+Duration: 00:01:23.1279346
+End Time: 11/10/2024 22:15:26
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 22:24:03
+Duration: 00:01:23.5958176
+End Time: 11/10/2024 22:25:26
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 22:34:03
+Duration: 00:01:23.9099069
+End Time: 11/10/2024 22:35:27
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 22:44:03
+Duration: 00:01:24.6086824
+End Time: 11/10/2024 22:45:27
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 22:54:03
+Duration: 00:01:23.7080376
+End Time: 11/10/2024 22:55:27
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 23:04:03
+Duration: 00:01:24.3602713
+End Time: 11/10/2024 23:05:27
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 23:14:03
+Duration: 00:01:24.4919240
+End Time: 11/10/2024 23:15:28
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Scraper execution completed.
+=====================================================================
+Run Time: 11/10/2024 23:24:03
+Duration: 00:01:22.5849809
+End Time: 11/10/2024 23:25:25
+Status: Success
+Output:
+
+=====================================================================
+
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Scraper execution completed.
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
+Attempting to run scraper...
