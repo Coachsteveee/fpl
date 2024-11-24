@@ -8,6 +8,8 @@ title FPL Scraper Runner
 set "PROJECT_PATH=C:\Users\NUDDY\Documents\GitHub\fpl"
 set "PYTHON_SCRIPT=scraper.py"
 set "LOG_FILE=scraper_log.txt"
+set "CONDA_PATH=C:\Users\NUDDY\anaconda3"
+set "CONDA_ENV=base"
 
 :: Change to project directory
 cd /d "%PROJECT_PATH%"
@@ -24,6 +26,25 @@ echo          FPL SCRAPER STARTING
 echo ========================================
 echo Time: %TIMESTAMP%
 echo.
+
+:: Initialize Conda
+call "%CONDA_PATH%\Scripts\activate.bat"
+if errorlevel 1 (
+    color 0C
+    echo ERROR: Could not activate Conda
+    pause
+    exit /b 1
+)
+
+:: Activate the environment
+call conda activate %CONDA_ENV%
+if errorlevel 1 (
+    color 0C
+    echo ERROR: Could not activate Conda environment %CONDA_ENV%
+    pause
+    exit /b 1
+)
+
 
 :: Log start
 echo [%TIMESTAMP%] Starting scraper... >> "%LOG_FILE%"
@@ -80,8 +101,7 @@ echo.
 echo Results have been saved and pushed to git
 echo Check %LOG_FILE% for detailed logs
 echo.
-echo Window will close in 10 seconds...
-timeout /t 10
+taskkill /F /IM WindowsTerminal.exe /T >nul 2>&1
 exit /b 0
 
 :error
@@ -91,6 +111,5 @@ echo [%TIMESTAMP%] Error during git operations >> "%LOG_FILE%"
 echo ERROR: Git operations failed
 echo See log file for details: %LOG_FILE%
 echo.
-echo Window will close in 10 seconds...
-timeout /t 10
+taskkill /F /IM WindowsTerminal.exe /T >nul 2>&1
 exit /b 1
