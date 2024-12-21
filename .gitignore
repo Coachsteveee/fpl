@@ -44,6 +44,7 @@ test.ipynb
 scraper_log.txt
 test_scraper.py
 run_scraper.sh
+run_checker.sh
 
 # Data files (uncomment if you don't want to track these)
 # *.csv
